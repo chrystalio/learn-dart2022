@@ -39,8 +39,6 @@ void main() {
 
 // \n = new line
 // \t = tab
-// \b = backspace
-// \r = carriage return
 // \f = form feed
 // \' = single quote
 // \" = double quote
